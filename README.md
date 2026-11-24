@@ -12,12 +12,17 @@ SalaryCalc Pro is a responsive salary-planning web application that helps an ind
 
 > **Important:** SalaryCalc Pro currently applies a flat deduction percentage entered by the user. It is a planning estimator, not a statutory payroll, PAYE, NSSF, tax, accounting or legal-compliance system. Verify actual payroll obligations with current official guidance or a qualified payroll professional.
 
+## 🚀 Live Demo
+
+[**View SalaryCalc Pro – Live Application**](https://pauldeveloper73.github.io/salary-calculator/)
+
 ---
 
 ## Contents
 
 - [SalaryCalc Pro](#salarycalc-pro)
   - [Understand your pay. Plan with confidence.](#understand-your-pay-plan-with-confidence)
+  - [🚀 Live Demo](#-live-demo)
   - [Contents](#contents)
   - [Project overview](#project-overview)
   - [Who the application is for](#who-the-application-is-for)
